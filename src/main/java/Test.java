@@ -5,6 +5,7 @@ public class Test {
         System.out.println("commit form xu02 ea");
         System.out.println("commit form jazz03 eclipse");
         System.out.println("commit form xu04");
+        System.out.println("commit form jazz05 eclipse");
     }
 
     //revert1
